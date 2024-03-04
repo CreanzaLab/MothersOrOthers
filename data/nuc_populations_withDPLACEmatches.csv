@@ -1,0 +1,133 @@
+Index,,,,"Code: EA043 Descent: major type (0=NonFemale Based, 1=Female Based)","Code: EA012 Marital residence with kin: prevailing pattern (0=non female based, 1=Female based)","Code: EA015 Community marriage organization (1=Exogamous, 2=Agamous, 3=Endogamous)",pop_name,language,ID,phoible_id,phoible_id_preferred,ruhlen_id,ruhlen_id_preferred,longitude,latitude
+1,Blin,Ca37,xd445,NA,0,1,Aari,Aari,Aari,,,1480,1480,36,5
+2,Abkhaz,Ci12,xd577,0,0,1,Abkhasian,Abkhaz,Abkhasian,,,1602,1602,41,43
+3,Cherkess,Ci4,xd580,0,0,2,Adygei,Adyghe,Adygei,2349,2349,1605,1605,40,45
+4,Bako,Ca23,xd430,0,0,NA,Agaw,Awgni,Agaw,,,1515,1515,37,11
+5,Gheg,Ce1,xd528,0,0,1,Albanian,Albanian,Albanian,,,1789;1790,1789,20,41
+6,Aleut,Na9,xd1067,0,0,2,Aleut,Aleut,Aleut,,,2008,2008,-158,56
+7,Amhara,Ca7,xd455,0,0,1,Amhara,Amharic,Amhara,,,1584,1584,38,11
+8,Ami,Ia9,xd749,1,1,3,Ami,Amis,Ami,,,2605,2605,121,23
+9,Armenians,Ci10,xd575,0,0,2,Armenian,Armenian,Armenian,,,1654,1654,45,40
+10,Bengali,Ef2,xd664,0,0,3,Bengali,Bengali,BEB,177;250;1711;2162;2624,1711,1721;1722,1722,90,24
+11,,,,,,,Bakola,Kele,Bakola,,,815,815,10,-1
+12,Marri,Ea10,xd597,0,0,1,Balochi,Balochi,Balochi,2498;2545,2545,1771,1771,63,27
+13,Zulu,Ab12,xd13,0,0,1,BantuSouthAfrica,Zulu,BantuSouthAfrica,147;647,147,1161,1161,31,-28
+14,Spanish Basques,Ce8,xd535,0,0,2,Basque,Basque,Basque,179;321;2161;2340;2419;2583;2615,2161,1600,1600,-2,43
+15,Rwala,Cj2,xd588,0,0,2,Bedouin,Arabic,Bedouin,2157;2607,2157,1564,1564,36,29
+16,Tikar,Ae58,xd180,0,0,NA,Bedzan,Tikar,Bedzan,,,770,770,12,6
+17,,,,,,,Biaka,Aka,Biaka,1511,1511,862,862,17,3
+18,,,,,,,Bougainville,Naasioi,Bougainville,60;483,60,4348,4348,115,-6
+19,,,,,,,Brahmin,Hindi,Brahmin,,,1703;1704;1705,1704,80,27
+20,,,,,,,Brahui,Brahui,Brahui,261;2290;2377,2290,2021,2021,67,30
+21,Bagirmi,Ai21,xd350,0,0,NA,Bulala,Bagirmi,Bulala,,,1286,1286,17,13
+22,Bulgarians,Ch5,xd569,0,0,2,Bulgarian,Bulgarian,Bulgarian,,,1889,1889,25,43
+23,Burmese,Ei3,xd709,0,0,3,Burmese,Burmese,Burmese,,,2301,2301,96,20
+24,Burusho,Ee2,xd654,0,0,2,Burusho,Burushaski,Burusho,6;264,6,1639;1640,1640,75,36
+25,,,,,,,Tai L√º/Tai N√ºa,Tai L√º;Tai N√ºa,CDX,2374;2572,2572,2582;2583,2582,101,22
+26,Shantung,Ed10,xd639,0,0,3,Han (Beijing),Mandarin,CHB,16;286;1047;2457,2457,2064,2064,116,40
+27,,,,,,,Han (Hokkien/Hunan),Min/Xiang,CHS,481;2562,481,2058;2059;2060;2073,2073,114,24
+28,Khmer,Ej5,xd727,0,0,2,Cambodian,Khmer,Cambodian,14;407;2597,14,2496;2497,2497,105,12
+29,Dene,Na30,xd1046,0,0,2,Chipewyan,Dene,Chipewyan,,,4670,4670,-111,56
+30,U'wa,Sf4,xd1377,0,0,3,Colombian,Tunebo,Colombian,1899,1893,5086;5095,5095,-76,7
+31,Attawapiskat Cree,Na7,xd1065,0,0,2,Cree,Cree,Cree,,,4693;4694;4695,`,-96,53
+32,Greeks,Ce7,xd534,0,0,2,Crete,Greek (Cyprus),Crete,,,1795,1795,33,35
+33,Dagur,Eb4,xd612,0,0,1,Daur,Dagur,Daur,312;2312,2312,1976,1976,124,49
+34,Dinka,Aj11,xd386,0,0,3,Dinka,Dinka,Dinka,,,1242;1244,1244,30,8
+35,Druze,Cj8,xd594,0,0,3,Druze,N. Lev. Arabic,Druze,2157;2607,2157,1568;1569,1568,36,34
+36,Kadazan-Dusun,Ib5,xd754,0,0,3,Dusun,Dusun,Dusun,,,2839,2839,116,6
+37,,,,,,,Esan,Esan,ESN,704,704,460,460,6,6
+38,,,,,,,Elmolo,Dasenech,Elmolo,,,1532,1532,36,4
+39,Estonians,ch16,xd553,0,0,2,Estonian,Estonian,Estonian,,,1927,1927,26,59
+40,Evenk,ec16,xd624,0,0,1,Even,Even,Even,,,1978,1978,136,64
+41,,,,,,,Finnish,Finnish,FIN,180;329;2535,2535,1920,1920,26,61
+42,,,,,,,French,French,French,162;331;2182;2269,162,1818,1818,4,47
+43,Bororo Fulani,Cb8,xd485,0,0,1,Fulani,Fula,Fulani,,,112;113,113,11,8
+44,,,,,,,English,English,GBR,"160;2178,2180",160,1867,1867,-1,52
+45,Gujarati,Ef9,xd671,0,0,1,Gujarati,Gujarati,GIH,1724;2452,2452,1699,1699,71,22
+46,Malinke,Ag9,xd297,0,0,2,Mandinke,Malinke,GWD,1126,1126,86,86,-16,13
+47,Georgians,Ci8,xd584,NA,0,NA,Georgian,Georgian,Georgian,,,1596,1596,44,42
+48,Greeks,Ce7,xd534,0,0,2,Greek,Greek,Greek,,,1794,1794,23,39
+49,Hadza,Aa9,xd9,0,0,2,Hadza,Hadza,Hadza,,,1,1,35,-3
+50,Hazara,Ea3,xd602,0,0,2,Hazara,Eastern Farsi,Hazara,2266,2266,1781,1781,66,33
+51,Nanai,Ec9,xd637,0,0,NA,Hezhen,Nanai,Hezhen,341,341,1989,1989,137,50
+52,Magyar,Ch8,xd572,0,0,3,Hungarian,Hungarian,Hungarian,,,1899,1899,19,47
+53,Spaniards,Ce6,xd533,0,0,2,Iberian,Spanish,IBS,2210;2308,2210,1823;1824,1823,-3,41
+54,Telugu,Eg10,xd673,0,0,2,Telugu,Telugu,ITU,8;268;1791;2387,1791,2035,2035,81,16
+55,Icelanders,Cg2,xd542,0,0,2,Icelandic,Icelandic,Icelandic,,,1859,1859,-21,64
+56,Igbo,Af10,xd187,0,0,3,Igbo,Igbo,Igbo,,,477;478,478,7,6
+57,Sagada,Ia2,xd742,0,0,2,Igorot,Ifugao,Igorot,,,2645;2646,2645,121,17
+58,Iranians,Ea9,xd608,0,0,2,Iranian,Farsi,Iranian,,,1782,1782,55,32
+59,Iraqw,Ca4,xd448,0,0,NA,Iraqw,Iraqw,Iraqw,,,1547,1547,35,4
+60,,,,,,,Irula,Irula,Irula,,,2046,2046,80,13
+61,Itelmen,ec13,xd621,0,0,2,Itelman,Alyutor,Itelman,,,2006,2006,164,58
+62,Japanese,Ed5,xd648,0,0,1,Japanese,Japanese,JPT,197;384;2196,2196,1997,1997,138,36
+63,Jordanians,Cj6,xd592,0,0,2,Jordanian,Arabic (Syrian),Jordanian,,,1569,1569,36,33
+64,Annamese,Ej4,xd726,0,0,3,Kinh (Ho Chi Minh City),Vietnamese,KHV,15;605,605,2430,2430,108,12
+65,Sara,Ai22,xd351,0,0,1,Kaba,Sara,Kaba,,,1284,1284,20,10
+66,Telugu,Eg10,xd673,0,0,2,Kapu,Telugu,Kapu,,,2035,2035,80,16
+67,,,,,,,Karitiana,Karitiana,Karitiana,1076;2091,1076,5314,5314,-63,-11
+68,Kikuyu,Ad4,xd109,0,0,1,Kikuyu,Kikuyu,Kikuyu,,,933,933,37,-1
+69,Bakongo,Ac14,xd38,1,1,1,Kongo,Kongo,Kongo,,,999,999,15,-5
+70,Koreans,Ed1,xd638,0,0,1,Korean,Korean,Korean,,,1996,1996,128,36
+71,,,,,,,Kusunda,Kusunda,Kusunda,,,3593,3593,81,29
+72,,,,,,,Kyrgyz,Kyrgyz,Kyrgyz,,,1955,1955,74,41
+73,Vugusu,Ad41,xd111,0,0,1,Luhya,Lubukusu,LWK,1201,1201,1025,1025,35,0
+74,,,,,,,Lahu,Lahu,Lahu,23;443;2319,443,2346,2346,102,22
+75,Laka,Ai13,xd341,0,0,NA,Laka,Laka,Laka,,,1280,1280,11,9
+76,,,,,,,Lemande,Mandi,Lemande,,,994,994,34,-10
+77,,,,,,,Lezgin,Lezgi,Lezgin,,,1630;1631,1631,48,42
+78,Mende,Af5,xd230,0,0,3,Mende,Mende,MSL,784,784,97,97,-12,8
+79,,,,,,,Mada,Eggon,Mada,,,622,622,9,9
+80,,,,,,,Madiga,Madiga,Madiga,,,2035;2040,2040,80,17
+81,Marri,Ea10,xd597,0,0,1,Makrani,Southern Balochi,Makrani,2545,2545,1770,1770,63,25
+82,Mansi,ec15,xd623,0,0,1,Mansi,Mansi,Mansi,,,1903,1903,62,62
+83,Maasi,Aj2,xd395,0,0,2,Masai,Maasai,Masai,,,1250,1250,36,-2
+84,K'iche',Sa13,xd1313,0,0,3,Maya,K‚Äôiche‚Äô,Maya,1154,1154,4892,4892,-90,16
+85,Mbuti,Aa5,xd5,0,0,1,Mbuti,Efe(Mamvu),Mbuti,1251,1251,1304,1304,30,2
+86,Miao,Ed4,xd647,0,0,3,Miao,Hmong,Miao,2239,2239,2357,2357,101,21
+87,Mixe,Nj7,xd1306,0,0,3,Mixe,Mixe,Mixe,,,4859,4859,-96,17
+88,Mixtec,Nj12,xd1298,0,NA,NA,Mixtec,Mixtec,Mixtec,,,5018,5018,-98,18
+89,Khalka,Eb3,xd611,0,0,2,Mongolian,Khalkha,Mongolian,191;405,191,1975,1975,105,47
+90,Mzab,Cc4,xd501,0,0,3,Mozabite,Mzab,Mozabite,900,900,1333,1333,4,32
+91,Suri,Aj20,xd396,0,0,2,Mursi,Mursi,Mursi,,,1201,1201,35,6
+92,,,,,,,Naxi,Naxi,Naxi,485,485,2324,2324,100,28
+93,,,,,,,Ngumba,Ngumba,Ngumba,,,805,805,10,2
+94,,,,,,,Ogiek,Ogiek,Ogiek,,,1266,1266,36,0
+95,,,,,,,Onge,Onge,Onge,,,3606,3606,93,13
+96,,,,,,,Orcadian,Scots,Orcadian,2505,2505,1868,1868,-3,59
+97,Evenk,ec16,xd624,0,0,1,Oroqen,Oroqen,Oroqen,2292,2292,1980,1980,125,51
+98,,,,,,,Peruvian,Cusco Spanish,PEL,2024,2024,1831,1831,-77,-12
+99,Punjabi,Ea13,xd600,0,0,3,Punjabi,Punjabi,PJL,175;1780;2479,2479,1692;1695,1695,74,31
+100,Jordanians,Cj6,xd592,0,0,2,Palestinian,S. Lev. Arabic,Palestinian,132;231,132,1568,1568,35,32
+101,,,,,,,PapuanHighlands,Waghi,PapuanHighlands,610,610,3714,3714,144,-6
+102,,,,,,,PapuanSepik,Abulas,PapuanSepik,1159,1159,4258,4258,142,-4
+103,Yusufzai,Ea2,xd601,0,0,2,Pathan,Pashto,Pathan,173;521,173,1739;1740,1739,68,31
+104,Pima,Ni6,xd1291,0,0,2,Pima,O‚Äôodham,Pima,96;509,96,4970,4970,-112,33
+105,Quechan,Nh22,xd1273,0,0,1,Quechua,Quechua,Quechua,,,5148,5148,-72,-14
+106,,,,,,,Relli,Reli,Relli,,,1720,1720,83,18
+107,,,,,,,Rendille,Rendille,Rendille,,,1536,1536,37,2
+108,Russians,Ch11,xd548,0,0,2,Russian,Russian,Russian,166;530;2261,116,1875,1875,34,55
+109,Tamil,Eg2,xd678,0,0,2,Tamil,Tamil,STU,1058;1788;2611,2611,2050,2050,80,9
+110,Sami,Cg4,xd544,0,0,1,Saami,Saami,Saami,,,1911;1912;1913;1914,1911,21,68
+111,,,,,,,Saharawi,Saharawi,Saharawi,,,1567,1567,-11,20
+112,!Kung,Aa1,xd1,0,0,1,San,Nama,San,115;382,115,11,11,19,-29
+113,Sandawe,Aa6,xd6,0,0,1,Sandawe,Sandawe,Sandawe,,,2,2,35,-5
+114,,,,,,,Sardinian,Sardinian,Sardinian,2546,2546,1803,1803,9,40
+115,,,,,,,Sengwer,Markweeta,Sengwer,,,1266,1266,36,1
+116,Sherpa,Ee6,xd658,0,0,2,Sherpa,Sherpa,Sherpa,,,2127,2127,86,28
+117,Sindhi,Ea1,xd596,0,0,3,Sindhi,Sindhi,Sindhi,1148;1786,1786,1690;1691,1690,68,25
+118,,,,,,,Surui,Paiter,Surui,2103,2103,5271,5271,-61,-11
+119,Neapolitans,Ce5,xd532,0,0,3,Tuscan,Italian,TSI,1145;2195;2427,2427,1809,1809,11,44
+120,Thai,Ej9,xd731,0,0,2,Thai,Thai,Thai,,,2579,2579,101,15
+121,Tibetans,Ee4,xd656,0,0,2,Tibetan,Tibetan,Tibetan,,,2125;2126,2125,86,30
+122,Tlingit,Nb22,xd1082,1,1,1,Tlingit,Tlingit,Tlingit,,,4640,4640,-136,59
+123,Tu,Eb2,xd610,0,0,3,Tu,Tu,Tu,462,462,1968,1968,100,38
+124,,,,,,,Tubalar,Northern Altai,Tubalar,,,1960,1960,88,51
+125,Turks,Ci5,xd581,0,0,2,Turkish,Turkish,Turkish,,,1935,1935,33,39
+126,Ulch,ec18,xd626,0,0,1,Ulchi,Ulch,Ulchi,,,1991,1991,140,52
+127,,,,,,,Uygur,Uyghur,Uygur,2612,2612,1941,1941,81,42
+128,Manchu,Ed3,xd646,0,0,1,Xibo,Xibe,Xibo,463,463,1986,1986,122,42
+129,Oyo Yoruba,Af6,xd240,0,0,3,Yoruba,Yoruba,YRI,636;847;848,847,447,447,4,7
+130,Yakut,Ec2,xd628,0,0,1,Yakut,Sakha,Yakut,190;534;2444,190,1956,1956,126,61
+131,Lolo,Ed2,xd645,0,0,1,Yi,Nuosu,Yi,2483,2483,2346,2346,102,28
+132,Zapotec,Nj10,xd1296,0,0,3,Zapotec,Zapotec,Zapotec,,,5052,5052,-95,16

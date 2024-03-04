@@ -1,0 +1,10 @@
+library(rethinking)
+library(ggplot2)
+library(maps)
+library(magrittr)
+library(dplyr)
+
+source("collect_data_for_analysis.R")
+source("worldwide_threshold_coef.R")
+source("per_pop_coef.R")
+source("worldwide_endoexogamy_coef.R")

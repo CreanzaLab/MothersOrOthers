@@ -1,0 +1,160 @@
+Pop_Names_Ethno,Num_Samples,Descent,Residence,,Ruhlen,D-PLACE Preferred society name,Society id,Cross-dataset id,"Code: EA043 Descent: major type (0=NonFemale Based, 1=Female Based)","Code: EA012 Marital residence with kin: prevailing pattern (0=non female based, 1=Female based)","Code: EA015 Community marriage organization (1=Exogamous, 2=Agamous, 3=Endogamous)"
+Adygei,5,NonMatrilineal,NonFemaleKin Residence,,1605,Cherkess,Ci4,xd580,0,0,2
+Afar,7,NonMatrilineal,NonFemaleKin Residence,,1530,Afar,Ca6,xd454,0,0,1
+Aleut,35,NonMatrilineal,NonFemaleKin Residence,,2008,Aleut,Na9,xd1067,0,0,2
+Altaian,34,NonMatrilineal,NA,,1959,,,,,,
+Ambo,9,Matrilineal,NonFemaleKin Residence,,1145,Ambo,Ab19,xd20,1,0,NA
+American Samoans,3,NonMatrilineal,NonFemaleKin Residence,,3566,American Samoans,Ii1,xd876,0,0,3
+Ami,31,Matrilineal,FemaleKin Residence,,2605,Ami,Ia9,xd749,1,1,3
+Armenian,75,NonMatrilineal,NonFemaleKin Residence,,1654,Armenians,Ci10,xd575,0,0,2
+Atayal,3,NonMatrilineal,NonFemaleKin Residence,,2590,Atayal,Ia1,xd732,0,0,2
+BantuTswana,24,NonMatrilineal,NonFemaleKin Residence,,1156,Tswana,Ab13,xd14,0,0,3
+Basque,14,NonMatrilineal,NonFemaleKin Residence,,1600,Spanish Basques,Ce8,xd535,0,0,2
+Batek,4,NonMatrilineal,FemaleKin Residence,,2513,,,,,,
+Bedouin,5,NonMatrilineal,NonFemaleKin Residence,,1564,Rwala,Cj2,xd588,0,0,2
+Bemba,4,Matrilineal,FemaleKin Residence,,1101,Bemba,Ac3,xd55,0,1,2
+Bengali,87,NonMatrilineal,NonFemaleKin Residence,,1722,Bengali,Ef2,xd664,0,0,3
+Bisa,35,NonMatrilineal,NonFemaleKin Residence,,106,Bisa,Ag53,xd292,0,0,1
+Brazilians,4,NonMatrilineal,NonFemaleKin Residence,,1834,Brazilians,Cf4,xd539,0,0,2
+Bulgarian,40,NonMatrilineal,NonFemaleKin Residence,,1889,Bulgarians,Ch5,xd569,0,0,2
+Bunun,4,NonMatrilineal,NonFemaleKin Residence,,2601,Bunun,Ia10,xd733,0,0,3
+Burmese,3,NonMatrilineal,NonFemaleKin Residence,,2301,Burmese,Ei3,xd709,0,0,3
+Buryat,137,NonMatrilineal,NonFemaleKin Residence,,1974,Buryat,Eb6,xd614,0,0,1
+Byelorussians,6,NonMatrilineal,NonFemaleKin Residence,,1876,Byelorussians,Ch6,xd570,0,0,2
+Cambodian,19,NonMatrilineal,NonFemaleKin Residence,,2497,Khmer,Ej5,xd727,0,0,2
+Carijona,8,NA,FemaleKin Residence,,5482,,,,,,
+Cham,20,Matrilineal,FemaleKin Residence,,2998,Cham,Ej11,xd718,1,1,2
+Chamorro,34,NonMatrilineal,NonFemaleKin Residence,,2616,Chamorro,If8,xd839,0,0,2
+Cherokee,5,Matrilineal,FemaleKin Residence,,4797,Cherokee,Ng5,xd1254,1,1,3
+Chipewyan,9,NonMatrilineal,NonFemaleKin Residence,,4670,Dene,Na30,xd1046,0,0,2
+Chokwe,6,Matrilineal,FemaleKin Residence,,1047,Chokwe,Ac12,xd36,1,1,1
+Chukchi,56,NonMatrilineal,NonFemaleKin Residence,,2003,Chukchi,Ec3,xd631,0,0,2
+Chuuk,19,NonMatrilineal,FemaleKin Residence,,3433,Trukese,If2,xd833,0,1,3
+Chuvash,4,NonMatrilineal,NonFemaleKin Residence,,1932,Chuvash,ch14,xd551,0,0,3
+Cocama,34,NA,NonFemaleKin Residence,,5310,,,,,,
+Coreguaje,22,NA,NonFemaleKin Residence,,5225,,,,,,
+Cree,3,NonMatrilineal,NonFemaleKin Residence,,4694,Attawapiskat Cree,Na7,xd1065,0,0,2
+Czech,29,NonMatrilineal,NonFemaleKin Residence,,1883,Czechs,Ch3,xd567,0,0,2
+Druze,61,NonMatrilineal,NonFemaleKin Residence,,1568,Druze,Cj8,xd594,0,0,3
+Dutch,11,NonMatrilineal,NonFemaleKin Residence,,1864,Dutch,Cg1,xd541,0,0,2
+Eastern Ojibwa,7,NonMatrilineal,NonFemaleKin Residence,,4696,Eastern Ojibwa,Na39,xd1055,0,0,1
+Egyptians,3,NonMatrilineal,NonFemaleKin Residence,,1570,Egyptians,Cd2,xd518,0,0,3
+Ellice,50,NonMatrilineal,NonFemaleKin Residence,,3568,Ellice,Ii4,xd883,0,0,3
+Esan,99,NonMatrilineal,NonFemaleKin Residence,,460,,,,,,
+EskimoChaplino,10,NonMatrilineal,NonFemaleKin Residence,,2017,Ungazikmit,ec14,xd622,0,0,3
+Estonian,3,NonMatrilineal,NonFemaleKin Residence,,1927,Estonians,ch16,xd553,0,0,2
+Even,136,NonMatrilineal,NA,,1978,Evenk,ec16,xd624,0,0,1
+Evenk,188,NonMatrilineal,NonFemaleKin Residence,,1980,Evenk,ec16,xd624,0,0,1
+Finnish,210,NonMatrilineal,NA,,1920,,,,,,
+French,28,NonMatrilineal,NonFemaleKin Residence,,1818,,,,,,
+Gambian,113,NonMatrilineal,NonFemaleKin Residence,,86,,,,,,
+Georgian,4,NonMatrilineal,NonFemaleKin Residence,,1596,Georgians,Ci8,xd584,NA,0,NA
+Greek,8,NonMatrilineal,NonFemaleKin Residence,,1794,Greeks,Ce7,xd534,0,0,2
+Guarani,7,NonMatrilineal,NonFemaleKin Residence,,5303,Guaraní,Sh7,xd1394,0,0,2
+Guna,34,NonMatrilineal,FemaleKin Residence,,5066,Guna,Sa1,xd1309,0,1,3
+Han,123,NonMatrilineal,NonFemaleKin Residence,,2071,Shantung,Ed10,xd639,0,0,3
+Hezhen,10,NonMatrilineal,NonFemaleKin Residence,,1989,Nanai,Ec9,xd637,0,0,NA
+Hmong (Black Hmong),97,NA,NonFemaleKin Residence,,2354,,,,,,
+Hmong (White Hmong),59,NA,NonFemaleKin Residence,,2356,,,,,,
+Htin (Mal),25,NA,FemaleKin Residence,,2419,,,,,,
+Hungarian,21,NonMatrilineal,NonFemaleKin Residence,,1899,Magyar,Ch8,xd572,0,0,3
+Ifugao,29,NonMatrilineal,NonFemaleKin Residence,,2647,Ifugao,Ia3,xd743,0,0,2
+Igorot,8,NonMatrilineal,NonFemaleKin Residence,,2653,Sagada,Ia2,xd742,0,0,2
+Ila,3,NonMatrilineal,NonFemaleKin Residence,,1109,Ila,Ac1,xd33,0,0,2
+Iranians,73,NonMatrilineal,NonFemaleKin Residence,,1779,Iranians,Ea9,xd608,0,0,2
+Irish,57,NonMatrilineal,NonFemaleKin Residence,,1837,Irish,Cg3,xd543,0,0,2
+IuMien,58,NA,NonFemaleKin Residence,,2364,,,,,,
+Japanese,106,NonMatrilineal,NonFemaleKin Residence,,1997,Japanese,Ed5,xd648,0,0,1
+Ju_Hoan_North,40,NonMatrilineal,NonFemaleKin Residence,,5,!Kung,Aa1,xd1,0,0,1
+Kalmyk,6,NonMatrilineal,NonFemaleKin Residence,,1973,Kalmyk,Ci1,xd574,0,0,1
+Karen (Pwo),24,NonMatrilineal,FemaleKin Residence,,2084,Karen,Ei7,xd713,0,1,2
+Karen (Skaw Karen),63,NonMatrilineal,FemaleKin Residence,,2095,,,,,,
+Kazakh,9,NonMatrilineal,NonFemaleKin Residence,,1954,Kazakh,Eb1,xd609,0,0,1
+Khasi,3,Matrilineal,FemaleKin Residence,,2385,Khasi,Ei8,xd714,1,1,3
+Kinh,108,NonMatrilineal,NonFemaleKin Residence,,2429,Annamese,Ej4,xd726,0,0,3
+Korean,17,NonMatrilineal,NonFemaleKin Residence,,1996,Koreans,Ed1,xd638,0,0,1
+Koryak,31,NonMatrilineal,NonFemaleKin Residence,,2005,Koryak,Ec5,xd633,0,0,2
+Kumyk,6,NonMatrilineal,NonFemaleKin Residence,,1948,Kumyk,Ci3,xd579,0,0,3
+Kurd,11,NonMatrilineal,NonFemaleKin Residence,,1775,Kurd,Ci11,xd576,0,0,3
+Kyrgyz,5,NonMatrilineal,NonFemaleKin Residence,,1955,,,,,,
+Lakalai,44,NonMatrilineal,NonFemaleKin Residence,,3284,Lakalai,Ig7,xd859,0,0,3
+Lawa (Western),46,NonMatrilineal,NonFemaleKin Residence,,2403,Lawa,Ej12,xd719,0,0,3
+Lisu,29,NA,NonFemaleKin Residence,,2325,,,,,,
+Lithuanians,4,NonMatrilineal,NonFemaleKin Residence,,1874,Lithuanians,Ch9,xd573,0,0,2
+Lozi,117,NonMatrilineal,NonFemaleKin Residence,,1159,Lozi,Ab3,xd26,0,0,2
+Luhya,99,NonMatrilineal,NonFemaleKin Residence,,1025,Vugusu,Ad41,xd111,0,0,1
+Luvale,20,Matrilineal,FemaleKin Residence,,1050,Luvale,Ac11,xd35,1,1,1
+Malay,13,NonMatrilineal,NonFemaleKin Residence,,2988,Malays,Ej8,xd730,0,0,2
+Mambwe,5,NonMatrilineal,NonFemaleKin Residence,,1089,Mambwe,Ac43,xd70,0,0,NA
+Mandenka,25,NonMatrilineal,NonFemaleKin Residence,,89,Malinke,Ag9,xd297,0,0,2
+Mansi,11,NonMatrilineal,NonFemaleKin Residence,,1903,Mansi,ec15,xd623,0,0,1
+Maori,20,NonMatrilineal,NonFemaleKin Residence,,3588,Māori,Ij2,xd891,0,0,3
+Mapuche,4,NonMatrilineal,NonFemaleKin Residence,,5159,Mapuche,Sg2,xd1384,0,0,1
+Masa,3,NonMatrilineal,NonFemaleKin Residence,,1358,Masa,Ai9,xd383,0,0,1
+Mende,85,NonMatrilineal,NonFemaleKin Residence,,97,Mende,Af5,xd230,0,0,3
+Minangkabau,5,Matrilineal,NonFemaleKin Residence,,2978,Minangkabau,Ib6,xd755,1,0,3
+Mossi,34,NonMatrilineal,NonFemaleKin Residence,,209,Mossi (Yatenga),Ag2,xd255,0,0,3
+Mur-Uitoto,26,NonMatrilineal,NonFemaleKin Residence,,5462,Witoto,Se6,xd1370,0,0,1
+Mussur/Lahu (Black Lahu),26,NA,FemaleKin Residence,,2346,,,,,,
+Nama,30,NonMatrilineal,NonFemaleKin Residence,,11,Nama,Aa3,xd3,0,0,1
+Naron,34,NonMatrilineal,NonFemaleKin Residence,,33,Naron,Aa7,xd7,0,0,1
+Nauruans,3,NonMatrilineal,FemaleKin Residence,,3427,Nauruans,If13,xd828,0,1,2
+Negidal,4,NonMatrilineal,NonFemaleKin Residence,,1979,Negidal,ec17,xd625,0,0,1
+Nganasan,12,NonMatrilineal,NonFemaleKin Residence,,1895,Nganasan,ec12,xd620,0,0,3
+Nivkh,38,NonMatrilineal,NonFemaleKin Residence,,2002,Nivkh,Ec1,xd617,0,0,3
+Onotong Java,8,NonMatrilineal,FemaleKin Residence,,3579,Ontong Java,Ii5,xd884,0,1,2
+Oromo,9,NonMatrilineal,NonFemaleKin Residence,,1539,Arusi,Ca11,xd417,0,0,NA
+Paiwan,17,NonMatrilineal,NonFemaleKin Residence,,2602,Paiwan,Ia6,xd746,0,0,3
+Palau,19,NonMatrilineal,FemaleKin Residence,,2617,Palauans,If1,xd824,0,1,3
+Palestinian,6,NonMatrilineal,NonFemaleKin Residence,,1565,Jordanians,Cj6,xd592,0,0,2
+Pathan,6,NonMatrilineal,NonFemaleKin Residence,,1740,Yusufzai,Ea2,xd601,0,0,2
+Pira-Wanano,21,NA,NonFemaleKin Residence,,5208,,,,,,
+Plateau Tonga,15,Matrilineal,NonFemaleKin Residence,,1166,Plateau Tonga,Ac30,xd56,1,0,2
+Pohnpei,17,Matrilineal,FemaleKin Residence,,3432,Ponapeans,If5,xd836,1,1,2
+Polish,55,NonMatrilineal,NA,,1878,,,,,,
+Portuguese,4,NonMatrilineal,NonFemaleKin Residence,,1833,Portuguese,Ce2,xd529,0,0,3
+Puinave,19,NA,NonFemaleKin Residence,,5197,,,,,,
+Punjabi,96,NonMatrilineal,NonFemaleKin Residence,,1695,Punjabi,Ea13,xd600,0,0,3
+Puyuma,3,NonMatrilineal,FemaleKin Residence,,2603,Puyuma,Ia11,xd734,0,1,3
+Quechua,6,NonMatrilineal,NonFemaleKin Residence,,5150,Quechan,Nh22,xd1273,0,0,1
+Romanians,4,NonMatrilineal,NonFemaleKin Residence,,1804,Romanians,Ch10,xd547,0,0,2
+Russian,54,NonMatrilineal,NonFemaleKin Residence,,1875,Russians,Ch11,xd548,0,0,2
+Saami,8,NonMatrilineal,NonFemaleKin Residence,,1912,Sami,Cg4,xd544,0,0,1
+San,24,NonMatrilineal,NonFemaleKin Residence,,3,!Kung,Aa1,xd1,0,0,1
+Sara,19,NonMatrilineal,NonFemaleKin Residence,,1284,Sara,Ai22,xd351,0,0,1
+Sardinian,7,NonMatrilineal,NA,,1803,,,,,,
+Sherpa,76,NonMatrilineal,NonFemaleKin Residence,,2127,Sherpa,Ee6,xd658,0,0,2
+Shona,5,NonMatrilineal,NonFemaleKin Residence,,1149,Shona,Ab18,xd19,0,0,1
+Sikuani,16,NonMatrilineal,FemaleKin Residence,,5321,Guahibo,Sc4,xd1347,0,1,2
+Sindhi,4,NonMatrilineal,NonFemaleKin Residence,,1690,Sindhi,Ea1,xd596,0,0,3
+Siona,17,NA,NonFemaleKin Residence,,5224,,,,,,
+Spanish,130,NonMatrilineal,NonFemaleKin Residence,,1823,Spaniards,Ce6,xd533,0,0,2
+Tajik,9,NonMatrilineal,NonFemaleKin Residence,,1783,,,,,,
+Tamil,4,NonMatrilineal,NonFemaleKin Residence,,2047,Tamil,Eg2,xd678,0,0,2
+Thai,5,NonMatrilineal,NonFemaleKin Residence,,2579,Thai,Ej9,xd731,0,0,2
+Tikuna,18,NonMatrilineal,NonFemaleKin Residence,,5203,Ticuna,Se2,xd1366,0,0,1
+Tlingit,5,Matrilineal,FemaleKin Residence,,4640,Tlingit,Nb22,xd1082,1,1,1
+Tongans,52,NonMatrilineal,NonFemaleKin Residence,,3565,Tongans,Ii12,xd878,0,0,3
+Tsimshian,3,Matrilineal,FemaleKin Residence,,4798,Tsimshian,Nb7,xd1104,1,1,2
+Tsonga,6,NonMatrilineal,NonFemaleKin Residence,,1167,Tsonga,Ab4,xd27,0,0,1
+Tu,10,NonMatrilineal,NonFemaleKin Residence,,1968,Tu,Eb2,xd610,0,0,3
+Tuareg,11,Matrilineal,FemaleKin Residence,,1326,Tuareg Ahaggar,Cc9,xd506,1,0,1
+Turkish,11,NonMatrilineal,NonFemaleKin Residence,,1935,Turks,Ci5,xd581,0,0,2
+Turkmen,3,NonMatrilineal,NonFemaleKin Residence,,1937,Turkmen,Eb5,xd613,0,0,NA
+Tuscan,107,NonMatrilineal,NA,,1809,Neapolitans,Ce5,xd532,0,0,3
+Udihe,31,NonMatrilineal,NonFemaleKin Residence,,1995,Udihe,ec21,xd630,0,0,1
+Ukranians,8,NonMatrilineal,NonFemaleKin Residence,,1877,Ukranians,Ch7,xd571,0,0,3
+Uygur,28,NonMatrilineal,NA,,1941,,,,,,
+Uzbek,5,NonMatrilineal,NonFemaleKin Residence,,1942,Uzbek,Eb8,xd616,0,0,NA
+Waiwai,6,NonMatrilineal,NonFemaleKin Residence,,5492,Wai-wai,Sd7,xd1359,0,0,2
+Wayuu,4,Matrilineal,FemaleKin Residence,,5422,Wayuu,Sb6,xd1331,1,1,2
+Wichi,64,NonMatrilineal,FemaleKin Residence,,5545,Wichí,Sh1,xd1388,0,1,1
+Xhosa,4,NonMatrilineal,NonFemaleKin Residence,,1160,Xhosa,Ab11,xd12,0,0,2
+Xibo,9,NonMatrilineal,NA,,1986,Manchu,Ed3,xd646,0,0,1
+Yagua,13,NonMatrilineal,NonFemaleKin Residence,,5450,Yagua,Se4,xd1368,0,0,1
+Yakut,10,NonMatrilineal,NA,,1956,Yakut,Ec2,xd628,0,0,1
+Yanomami,6,NonMatrilineal,NonFemaleKin Residence,,5064,Yanomami,Sd9,xd1361,0,0,3
+Yao,14,Matrilineal,FemaleKin Residence,,1129,Yao,Ac7,xd73,1,1,3
+Yoruba,131,NonMatrilineal,NonFemaleKin Residence,,447,Oyo Yoruba,Af6,xd240,0,0,3
+Yucu-Matapi,39,NA,NonFemaleKin Residence,,5435,,,,,,
+Yukaghir,59,NonMatrilineal,FemaleKin Residence,,1890,Yukaghir,Ec6,xd634,0,1,1
