@@ -87,9 +87,28 @@ per_pop_nuclear_coef_fxn <- function(
   mu_mean <- apply(mu, 2, mean)
   posterior <- extract.samples(stan_model)
   stan_resid <- pop_phon[, 1] / pop_phon[, 2] - mu_mean
-  return_list <- list(posterior = posterior, resid = stan_resid, thresh = thresh)
-  return(return_list)
+  
+  df <- data.frame(
+    phon_shared = pop_phon[, 1],
+    phon_total = pop_phon[, 2],
+    spat = pop_dist_geo,
+    gene = pop_dist_gene,
+    gene_x = pop_dist_gene_x
+  )
+  
 
+  # if ethnographic traits vary:
+  p_val <- summary(glm(
+    # binomial glm 
+    cbind(phon_shared, phon_total - phon_shared) ~
+      spat + gene + gene_x,
+    family = binomial,
+    data = df))$coefficient
+  p_val <- p_val[2:4, 4]
+  
+  return_list <- list(posterior = posterior, resid = stan_resid,
+                      thresh = thresh, p_values = p_val)
+  return(return_list)
 };
 # per_pop_coef_results <- lapply(1:nrow(nuc_list$meta), per_pop_nuclear_coef_fxn)
 # names(per_pop_coef_results) <- nuc_list$pop_order

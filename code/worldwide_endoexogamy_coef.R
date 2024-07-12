@@ -236,7 +236,6 @@ mt_coef_cmo_fxn <- function(
 
   pop_ethnographic <- as.factor(pop_ethnographic[! is.na(pop_ethnographic)])
 
-  print(pop_ethnographic)
   # make sure there are at least 7 neighboring populations
   if (length(thresh) <= 6) {
     to_ret <- list(
@@ -282,7 +281,28 @@ mt_coef_cmo_fxn <- function(
   mu_mean <- apply(mu, 2, mean)
   posterior <- extract.samples(stan_model)
   stan_resid <- pop_phon[, 1] / pop_phon[, 2] - mu_mean
-  return_list <- list(posterior = posterior, resid = stan_resid, thresh = thresh)
+  
+  # freq approach for p-values:
+  df <- data.frame(
+    phon_shared = pop_phon[, 1],
+    phon_total = pop_phon[, 2],
+    spat = pop_dist_geo,
+    gene = pop_dist_gene,
+    ethn = as.factor(pop_ethnographic)
+  )
+
+  p_val <- summary(glm(
+    # binomial glm 
+    cbind(phon_shared, phon_total - phon_shared) ~
+      spat * ethn + gene * ethn - ethn,
+    family = binomial,
+    data = df))$coefficient
+  p_val <- p_val[2:nrow(p_val), ]
+  coef_val <- p_val[, 1]
+  p_val <- p_val[, 4]
+  
+  return_list <- list(posterior = posterior, resid = stan_resid,
+                      thresh = thresh, p_values = p_val, coef_values = coef_val)
   return(return_list)
 };
 
@@ -299,8 +319,10 @@ run_worldwide_mt_coef_cmo_mdl <- function() {
 
   plot_num <- 0
   mt_plot_list <- list()
+  mt_pval_plot_list <- list()
   for (region_subset in c("All", "Central & East Asia and Pacific",
-                          "Americas", "Africa", "West Eurasia")) {
+                          "Americas", "Africa", "West Eurasia"
+                          )) {
     print(region_subset)
     plot_num <- plot_num + 1
     if (region_subset == "All") {
@@ -366,21 +388,32 @@ run_worldwide_mt_coef_cmo_mdl <- function() {
             }})
       }
       
+      p_val_table <- sapply(mt_coefmdl_stan, function(d) {
+        n <- rep(NA, 4)
+        n[1:length(d$p_values)] <- d$p_values
+        n
+      })[c(1:4), ]
+      coef_val_table <- sapply(mt_coefmdl_stan, function(d) {
+        n <- rep(NA, 4)
+        n[1:length(d$coef_values)] <- d$coef_values
+        n
+      })[c(1:4), ]
       mt_coef_plotting_df <- data.frame(
         # spatial thresholds
         coef_distance = unlist(lapply(model_distances, rep, 4)),  # 6
         # coefficient names
-        Coefficient = rep(c("spat_coef", "gene_coef",
+        Coefficient = rep(c("spat_coef", "spat_coef_endo",
                             # "spat_coef_exo", "gene_coef_exo",
-                            "spat_coef_endo", "gene_coef_endo"),
+                            "gene_coef", "gene_coef_endo"),
                           length(mt_coefs$spat_coef)),
         # coefficient values
         coef_value = as.vector(t(as.matrix(as.data.frame(mt_coefs))[, 1:4])),  # 6
         # coefficient credibility intervals
         coef_ci_min = as.vector(t(sapply(mt_coefs_ci, function(d) d[1, ])[, 1:4])),
-        coef_ci_max = as.vector(t(sapply(mt_coefs_ci, function(d) d[2, ])[, 1:4]))
+        coef_ci_max = as.vector(t(sapply(mt_coefs_ci, function(d) d[2, ])[, 1:4])),
+        p_vals = as.vector(p_val_table),
+        coef_vals = as.vector(coef_val_table)
       )
-      
       
       ##
       mt_plot_list[[plot_num]] <- ggplot(data = mt_coef_plotting_df, aes(
@@ -437,15 +470,55 @@ run_worldwide_mt_coef_cmo_mdl <- function() {
               paste0("mtDNA distance\n(add'l effect of\nendogamy)"))) +
           geom_hline(yintercept = 0, color = '#80808030') +
           theme_classic()
+      
+      # mt_pval_plot_list[[plot_num]] <- ggplot(data = mt_coef_plotting_df, aes(
+      #   x = coef_distance, y = p_vals, group = Coefficient)) +
+      #   xlab("Spatial distance threshold for pairs of populations (km)") +
+      #   ylab(paste0("p-value \n(", continents_name, ")")) +
+      #   guides(fill = element_blank(),
+      #          colour = NULL) +
+      #   geom_line(aes(color = Coefficient, linetype = Coefficient)) +
+      #   scale_x_continuous(
+      #     lim = range(model_distances),
+      #     breaks = 2 * (0:5) * 1000,
+      #     expand = expansion(mult = c(0, 0))) +
+      #   scale_y_continuous(
+      #     transform = "log",
+      #     breaks = c(10 ** c(-3, -5, (-1 - 10 * (0:20))))
+      #   ) + ggforce::facet_zoom(ylim = c(0.2, 0.00001),
+      #                           zoom.size = 1,
+      #                           horizontal = F) +
+      #   scale_linetype_manual(
+      #     values = c("solid", "solid", "dashed", "dashed"),
+      #     breaks = c("spat_coef", "gene_coef", "spat_coef_endo", "gene_coef_endo"),
+      #     labels = c(
+      #       "Spatial distance",
+      #       "mtDNA distance\n(non-spatial component)",
+      #       paste0("Spatial distance\n(add'l effect of\nendogamy)"),
+      #       paste0("mtDNA distance\n(add'l effect of\nendogamy)"))) +
+      #   scale_color_manual(
+      #     values = c("black", "red", "black", "red"),
+      #     breaks = c("spat_coef", "gene_coef", "spat_coef_endo", "gene_coef_endo"),
+      #     labels = c(
+      #       "Spatial distance",
+      #       "mtDNA distance\n(non-spatial component)",
+      #       paste0("Spatial distance\n(add'l effect of\nendogamy)"),
+      #       paste0("mtDNA distance\n(add'l effect of\nendogamy)"))) +
+      #   geom_hline(yintercept = 0.05, color = '#80808030') +
+      #   theme_classic()
     }
 
   
   plot_num <- 0;
-  for (region_subset in c("world", "ceasiapacific",
-                          "americas", "africa", "weurasia")) {
+  for (region_subset in c("world" , "ceasiapacific",
+                          "americas", "africa", "weurasia"
+                          )) {
     plot_num <- plot_num + 1
     ggsave(filename = paste0("../figures/plot_mt_", region_subset, "_exoendo.pdf"),
            plot = mt_plot_list[[plot_num]], device = "pdf", dpi = 300,
            height = 4, width = 8)
+    # ggsave(filename = paste0("../figures/plot_mt_", region_subset, "_exoendo_coef.pdf"),
+    #        plot = mt_pval_plot_list[[plot_num]], device = "pdf", dpi = 300,
+    #        height = 4, width = 8)
   }
 }; run_worldwide_mt_coef_cmo_mdl()
