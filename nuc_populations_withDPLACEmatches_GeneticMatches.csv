@@ -1,0 +1,131 @@
+"pop_name","language","ID","genetic_sample_count","phoible_id","phoible_id_preferred","ruhlen_id","ruhlen_id_preferred","longitude","latitude","Genetic_population","Genetic_continent","Genetic_country","Genetic_longitude","Genetic_latitiude","genetic_linguistic_geodist","new_sample_count","EA_name","EA_code","dplace_code","Code..EA043.Descent..major.type..0.NonFemale.Based..1.Female.Based.","Code..EA012.Marital.residence.with.kin..prevailing.pattern..0.non.female.based..1.Female.based.","Code..EA015.Community.marriage.organization..1.Exogamous..2.Agamous..3.Endogamous."
+"Aari","Aari","Aari",2,,"NA","1480",1480,36,5,"Aari","Africa","Ethiopia",36.5,5.8,104.389485586659,2,"Blin","Ca37","xd445","NA",0,1
+"Abkhasian","Abkhaz","Abkhasian",2,,"NA","1602",1602,41,43,"Abkhasian","WestEurasia","Abkhazia",41.015,43.003,1.26767927930977,2,"Abkhaz","Ci12","xd577",0,0,1
+"Adygei","Adyghe","Adygei",16,"2349",2349,"1605",1605,40,45,"Adygei","WestEurasia","Russia(Caucasus)",39,44,136.646793982096,16,"Cherkess","Ci4","xd580",0,0,2
+"Agaw","Awgni","Agaw",2,,"NA","1515",1515,37,11,"Agaw","Africa","Ethiopia",36.9,11,10.9287556816223,2,"Bako","Ca23","xd430",0,0,"NA"
+"Albanian","Albanian","Albanian",2,,"NA","1789;1790",1789,20,41,"Albanian","WestEurasia","Albania",19.8,41.3,37.3080141930493,1,"Gheg","Ce1","xd528",0,0,1
+"Aleut","Aleut","Aleut",2,,"NA","2008",2008,-158,56,"Aleut","CentralAsiaSiberia","Russia",166,55.18,2245.92552371053,2,"Aleut","Na9","xd1067",0,0,2
+"Amhara","Amharic","Amhara",2,,"NA","1584",1584,38,11,"Amhara","Africa","Ethiopia",39.7,9.7,235.242991050333,2,"Amhara","Ca7","xd455",0,0,1
+"Ami","Amis","Ami",2,,"NA","2605",2605,121,23,"Ami","EastAsia","Taiwan",121.185356,22.843145,25.7541010217254,2,"Ami","Ia9","xd749",1,1,3
+"Armenian","Armenian","Armenian",2,,"NA","1654",1654,45,40,"Armenian","WestEurasia","Armenia",46.752,39.815,151.210798300818,2,"Armenians","Ci10","xd575",0,0,2
+"Bakola","Kele","Bakola",2,,"NA","815",815,10,-1,"Bakola","Africa","Cameroon",10.6,3.1,458.247996782376,2,,,,"NA","NA","NA"
+"Balochi","Balochi","Balochi",24,"2498;2545",2545,"1771",1771,63,27,"Balochi","SouthAsia","Pakistan",66.5,30.5,516.973467963366,24,"Marri","Ea10","xd597",0,0,1
+"BantuSouthAfrica","Zulu","BantuSouthAfrica",11,"147;647",147,"1161",1161,31,-28,"BantuSouthAfricaHGDP","Africa","South Africa",24.25,-25.6,721.759231281854,8,"Zulu","Ab12","xd13",0,0,1
+"Basque","Basque","Basque",23,"179;321;2161;2340;2419;2583;2615",2161,"1600",1600,-2,43,"Basque","WestEurasia","France",0,43,163.078084267491,23,"Spanish Basques","Ce8","xd535",0,0,2
+"Bengali","Bengali","BEB",131,"177;250;1711;2162;2624",1711,"1721;1722",1722,90,24,"Bengali","SouthAsia","Bangladesh",90.4,23.7,52.5774966685789,101,"Bengali","Ef2","xd664",0,0,3
+"Bedouin","Arabic","Bedouin",46,"2157;2607",2157,"1564",1564,36,29,"BedouinB","WestEurasia","Israel(Negev)",35,31,241.78659887856,46,"Rwala","Cj2","xd588",0,0,2
+"Bedzan","Tikar","Bedzan",2,,"NA","770",770,12,6,"Bedzan","Africa","Cameroon",11.3,5.3,109.570930203331,2,"Tikar","Ae58","xd180",0,0,"NA"
+"Biaka","Aka","Biaka",24,"1511",1511,"862",862,17,3,"Biaka","Africa","Central African Republic",17,4,110.578442081613,24,,,,"NA","NA","NA"
+"Bougainville","Naasioi","Bougainville",11,"60;483",60,"4348",4348,155,-6,"Bougainville","Oceania","PapuaNewGuinea",155,-6,0,11,,,,"NA","NA","NA"
+"Brahmin","Hindi","Brahmin",2,,"NA","1703;1704;1705",1704,80,27,"Brahmin","SouthAsia","India",83.3,17.7,1084.32272166463,2,,,,"NA","NA","NA"
+"Brahui","Brahui","Brahui",25,"261;2290;2377",2290,"2021",2021,67,30,"Brahui","SouthAsia","Pakistan",66.5,30.5,73.4027975452983,25,,,,"NA","NA","NA"
+"Bulala","Bagirmi","Bulala",2,,"NA","1286",1286,17,13,"Bulala","Africa","Chad",17.4,12.9,44.7903171257789,2,"Bagirmi","Ai21","xd350",0,0,"NA"
+"Bulgarian","Bulgarian","Bulgarian",2,,"NA","1889",1889,25,43,"Bulgarian","WestEurasia","Bulgaria",24.741,42.163,95.3777228483245,2,"Bulgarians","Ch5","xd569",0,0,2
+"Burmese","Burmese","Burmese",2,,"NA","2301",2301,96,20,"Burmese","EastAsia","Myanmar",96.7,17,340.185241447053,2,"Burmese","Ei3","xd709",0,0,3
+"Burusho","Burushaski","Burusho",24,"6;264",6,"1639;1640",1640,75,36,"Burusho","SouthAsia","Pakistan",74,36.5,105.622568463692,24,"Burusho","Ee2","xd654",0,0,2
+"Cambodian","Khmer","Cambodian",9,"14;407;2597",14,"2496;2497",2497,105,12,"Cambodian","EastAsia","Cambodia",105,12,0,9,"Khmer","Ej5","xd727",0,0,2
+"Tai L‚àö¬∫/Tai N‚àö¬∫a","Tai L‚àö¬∫;Tai N‚àö¬∫a","CDX",102,"2374;2572",2572,"2582;2583",2582,101,22,"CDX","EastAsia","China",100.78,22,22.7176709048566,102,,,,"NA","NA","NA"
+"Han (Beijing)","Mandarin","CHB",113,"16;286;1047;2457",2457,"2064",2064,116,40,"CHB","EastAsia","China",116.383333,39.916666,34.0360031605738,113,"Shantung","Ed10","xd639",0,0,3
+"Chipewyan","Dene","Chipewyan",2,,"NA","4670",4670,-111,56,"Chipewyan","America","Canada",-107.3,59.6,457.180172037051,2,"Dene","Na30","xd1046",0,0,2
+"Han (Hokkien/Hunan)","Min/Xiang","CHS",196,"481;2562",481,"2058;2059;2060;2073",2073,114,24,"CHS","EastAsia","China",113.266667,23.13333,121.728773186548,138,,,,"NA","NA","NA"
+"Colombian","Tunebo","Colombian",7,"1899",1893,"5086;5095",5095,-76,7,"ColombianHGDP","Colombian","Colombian in Colombia (HGDP)",-68,3,991.175460529084,7,"U'wa","Sf4","xd1377",0,0,3
+"Cree","Cree","Cree",2,,"NA","4693;4694;4695",4693,-96,53,"Cree","America","Canada",-102.5,50.3,540.632685160625,2,"Attawapiskat Cree","Na7","xd1065",0,0,2
+"Crete","Greek (Cyprus)","Crete",2,,"NA","1795",1795,33,35,"Crete","WestEurasia","Greece",25.166666,35.166668,714.419665731124,2,"Greeks","Ce7","xd534",0,0,2
+"Daur","Dagur","Daur",9,"312;2312",2312,"1976",1976,124,49,"Daur","EastAsia","China",124,48.5,55.6024453684084,9,"Dagur","Eb4","xd612",0,0,1
+"Dinka","Dinka","Dinka",3,,"NA","1242;1244",1244,30,8,"Dinka","Africa","Sudan",27.4,8.783333333,299.168234156706,3,"Dinka","Aj11","xd386",0,0,3
+"Druze","N. Lev. Arabic","Druze",42,"2157;2607",2157,"1568;1569",1568,36,34,"Druze","WestEurasia","Israel(Carmel)",35,32,240.687896706654,42,"Druze","Cj8","xd594",0,0,3
+"Dusun","Dusun","Dusun",2,,"NA","2839",2839,116,6,"Dusun","Oceania","Brunei",114.7,4.7,203.537352633961,2,"Kadazan-Dusun","Ib5","xd754",0,0,3
+"Esan","Esan","ESN",149,"704",704,"460",460,6,6,"Esan","Africa","Nigeria",6,6.5,55.2937218740716,105,,,,"NA","NA","NA"
+"Estonian","Estonian","Estonian",2,,"NA","1927",1927,26,59,"Estonian","WestEurasia","Estonia",24.502,58.386,110.552620408531,2,"Estonians","ch16","xd553",0,0,2
+"Even","Even","Even",3,,"NA","1978",1978,136,64,"Even","CentralAsiaSiberia","Russia",135.88,57.53,720.946312097442,3,"Evenk","ec16","xd624",0,0,1
+"Finnish","Finnish","FIN",99,"180;329;2535",2535,"1920",1920,26,61,"Finnish","WestEurasia","Finland",24.9,60.2,107.595352628327,99,,,,"NA","NA","NA"
+"French","French","French",28,"162;331;2182;2269",162,"1818",1818,4,47,"French","WestEurasia","France",2,46,189.533410900789,28,,,,"NA","NA","NA"
+"Fulani","Fula","Fulani",2,,"NA","112;113",113,11,8,"Fulani","Africa","Cameroon",14.1,11.1,483.076963864449,2,"Bororo Fulani","Cb8","xd485",0,0,1
+"English","English","GBR",91,"160;2178,2180",160,"1867",1867,-1,52,"GBR","WestEurasia","England",-1.890401,52.486243,81.4012455965513,91,,,,"NA","NA","NA"
+"Georgian","Georgian","Georgian",2,,"NA","1596",1596,44,42,"Georgian","WestEurasia","Georgia",41.85,42.5,185.913152729449,2,"Georgians","Ci8","xd584","NA",0,"NA"
+"Gujarati","Gujarati","GIH",103,"1724;2452",2452,"1699",1699,71,22,"GIH","SouthAsia","India",-95.3677,29.7589,14095.3570065325,101,"Gujarati","Ef9","xd671",0,0,1
+"Greek","Greek","Greek",2,,"NA","1794",1794,23,39,"Greek","WestEurasia","Greece",23.7,38,126.691412359536,2,"Greeks","Ce7","xd534",0,0,2
+"Mandinke","Malinke","GWD",200,"1126",1126,"86",86,-16,13,"GWD","Africa","Gambian in Western Division, The Gambia - Mandinka",-16.579032,13.454876,80.4431894489842,141,"Malinke","Ag9","xd297",0,0,2
+"Hadza","Hadza","Hadza",2,,"NA","1",1,35,-3,"Hadza","Africa","Tanzania",35.3,-3.8,94.5356669617125,2,"Hadza","Aa9","xd9",0,0,2
+"Hazara","Eastern Farsi","Hazara",19,"2266",2266,"1781",1781,66,33,"Hazara","SouthAsia","Pakistan",70,33.5,376.832255160435,19,"Hazara","Ea3","xd602",0,0,2
+"Hezhen","Nanai","Hezhen",9,"341",341,"1989",1989,137,50,"Hezhen","EastAsia","China",133.5,47.5,378.777358185866,9,"Nanai","Ec9","xd637",0,0,"NA"
+"Hungarian","Hungarian","Hungarian",2,,"NA","1899",1899,19,47,"Hungarian","WestEurasia","Hungary",19.1,47.5,56.1009267671371,2,"Magyar","Ch8","xd572",0,0,3
+"Iberian","Spanish","IBS",157,"2210;2308",2210,"1823;1824",1823,-3,41,"IBS","WestEurasia","Spain",-3.72,40.38,91.8918790174581,107,"Spaniards","Ce6","xd533",0,0,2
+"Icelandic","Icelandic","Icelandic",2,,"NA","1859",1859,-21,64,"Icelandic","WestEurasia","Iceland",-21.9,64.1,45.3508979160139,2,"Icelanders","Cg2","xd542",0,0,2
+"Igbo","Igbo","Igbo",2,,"NA","477;478",478,7,6,"Igbo","Africa","Nigeria",7,6,0,2,"Igbo","Af10","xd187",0,0,3
+"Igorot","Ifugao","Igorot",2,,"NA","2645;2646",2645,121,17,"Igorot","Oceania","Philippines",121,17.1,11.0669800458759,2,"Sagada","Ia2","xd742",0,0,2
+"Iranian","Farsi","Iranian",2,,"NA","1782",1782,55,32,"Iranian","WestEurasia","Iran",51.46,35.586,515.354892432022,2,"Iranians","Ea9","xd608",0,0,2
+"Iraqw","Iraqw","Iraqw",2,,"NA","1547",1547,35,4,"Iraqw","Africa","Tanzania",35.5,-3.7,853.249457993538,2,"Iraqw","Ca4","xd448",0,0,"NA"
+"Irula","Irula","Irula",2,,"NA","2046",2046,80,13,"Irula","SouthAsia","India",80,13.5,55.3163185259363,2,,,,"NA","NA","NA"
+"Itelman","Alyutor","Itelman",2,,"NA","2006",2006,164,58,"Itelman","CentralAsiaSiberia","Russia",157,57,433.986324311539,1,"Itelmen","ec13","xd621",0,0,2
+"Telugu","Telugu","ITU",107,"8;268;1791;2387",1791,"2035",2035,81,16,"ITU","SouthAsia","India",-1.890401,52.486243,8134.07026142033,104,"Telugu","Eg10","xd673",0,0,2
+"Jordanian","Arabic (Syrian)","Jordanian",3,,"NA","1569",1569,36,33,"Jordanian","WestEurasia","Jordan",35.914,32.055,105.10778583688,3,"Jordanians","Cj6","xd592",0,0,2
+"Japanese","Japanese","JPT",131,"197;384;2196",2196,"1997",1997,138,36,"JPT","EastAsia","Japan",139.68,35.68,155.87570417207,131,"Japanese","Ed5","xd648",0,0,1
+"Kaba","Sara","Kaba",2,,"NA","1284",1284,20,10,"Kaba","Africa","CentralAfricanRepublic",16.4,7.2,502.890839904884,2,"Sara","Ai22","xd351",0,0,1
+"Kapu","Telugu","Kapu",2,,"NA","2035",2035,80,16,"Kapu","SouthAsia","India",83.3,17.7,398.8237023091,2,"Telugu","Eg10","xd673",0,0,2
+"Karitiana","Karitiana","Karitiana",12,"1076;2091",1076,"5314",5314,-63,-11,"Karitiana","America","Brazil",-63,-10,110.611186562063,12,,,,"NA","NA","NA"
+"Kinh (Ho Chi Minh City)","Vietnamese","KHV",122,"15;605",605,"2430",2430,108,12,"KHV","EastAsia","Vietnam",106.68,10.78,197.399921499206,101,"Annamese","Ej4","xd726",0,0,3
+"Kikuyu","Kikuyu","Kikuyu",2,,"NA","933",933,37,-1,"Kikuyu","Africa","Kenya",35.6,0.4,219.660707150087,2,"Kikuyu","Ad4","xd109",0,0,1
+"Kongo","Kongo","Kongo",2,,"NA","999",999,15,-5,"Kongo","Africa","Congo",11.8,2.5,902.458106167776,1,"Bakongo","Ac14","xd38",1,1,1
+"Korean","Korean","Korean",2,,"NA","1996",1996,128,36,"Korean","EastAsia","Korea",127,37.6,198.720952213948,2,"Koreans","Ed1","xd638",0,0,1
+"Kusunda","Kusunda","Kusunda",2,,"NA","3593",3593,81,29,"Kusunda","SouthAsia","Nepal",82.48778,28.07245287,178.237563573316,2,,,,"NA","NA","NA"
+"Kyrgyz","Kyrgyz","Kyrgyz",2,,"NA","1955",1955,74,41,"Kyrgyz","CentralAsiaSiberia","Kyrgyzystan",74.6,42.9,216.820205435527,2,,,,"NA","NA","NA"
+"Lahu","Lahu","Lahu",8,"23;443;2319",443,"2346",2346,102,22,"Lahu","EastAsia","China",100,22,206.522827222978,8,,,,"NA","NA","NA"
+"Laka","Laka","Laka",2,,"NA","1280",1280,11,9,"Laka","Africa","Chad",16.2,8.3,577.524932443437,2,"Laka","Ai13","xd341",0,0,"NA"
+"Lemande","Mandi","Lemande",2,,"NA","791",791,11,5,"Lemande","Africa","Cameroon",11.1,4.5,56.392945411391,2,,,,"NA","NA","NA"
+"Lezgin","Lezgi","Lezgin",2,,"NA","1630;1631",1631,48,42,"Lezgin","WestEurasia","Russia",48.183,42.117,19.9585500558834,2,,,,"NA","NA","NA"
+"Luhya","Lubukusu","LWK",110,"1201",1201,"1025",1025,35,0,"LWK","Africa","Kenya",36.61,-1.27,227.676556259227,108,"Vugusu","Ad41","xd111",0,0,1
+"Mada","Eggon","Mada",2,,"NA","622",622,9,9,"Mada","Africa","Cameroon",14.2,10.8,604.021795497425,2,,,,"NA","NA","NA"
+"Madiga","Madiga","Madiga",2,,"NA","2035;2040",2040,80,17,"Madiga","SouthAsia","India",83.3,17.7,359.191396178665,2,,,,"NA","NA","NA"
+"Makrani","Southern Balochi","Makrani",25,"2545",2545,"1770",1770,63,25,"Makrani","SouthAsia","Pakistan",64,26,149.598305166301,25,"Marri","Ea10","xd597",0,0,1
+"Mansi","Mansi","Mansi",2,,"NA","1903",1903,62,62,"Mansi","CentralAsiaSiberia","Russia",61.45,63.8,202.565688235136,2,"Mansi","ec15","xd623",0,0,1
+"Masai","Maasai","Masai",2,,"NA","1250",1250,36,-2,"Masai","Africa","Kenya",35.2,-1.5,104.786577066212,2,"Maasi","Aj2","xd395",0,0,2
+"Maya","K‚Äö√Ñ√¥iche‚Äö√Ñ√¥","Maya",21,"1154",1154,"4892",4892,-90,16,"Mayan","America","Mexico",-91,19,348.590711430442,21,"K'iche'","Sa13","xd1313",0,0,3
+"Mbuti","Efe(Mamvu)","Mbuti",13,"1251",1251,"1304",1304,30,2,"Mbuti","Africa","Congo",29,1,156.876149401887,13,"Mbuti","Aa5","xd5",0,0,1
+"Miao","Hmong","Miao",10,"2239",2239,"2357",2357,101,21,"Miao","EastAsia","China",109,28,1121.22186691822,10,"Miao","Ed4","xd647",0,0,3
+"Mixe","Mixe","Mixe",2,,"NA","4859",4859,-96,17,"Mixe","America","Mexico",-96.58,16.95,62.0172919087641,2,"Mixe","Nj7","xd1306",0,0,3
+"Mixtec","Mixtec","Mixtec",2,,"NA","5018",5018,-98,18,"Mixtec","America","Mexico",-97,17,153.384579981805,2,"Mixtec","Nj12","xd1298",0,"NA","NA"
+"Mongolian","Khalkha","Mongolian",9,"191;405",191,"1975",1975,105,47,"Mongola","CentralAsiaSiberia","China",111,45,515.018331777274,9,"Khalka","Eb3","xd611",0,0,2
+"Mozabite","Mzab","Mozabite",27,"900",900,"1333",1333,4,32,"Mozabite","Africa","Algeria",3,32,94.4928050249656,27,"Mzab","Cc4","xd501",0,0,3
+"Mende","Mende","MSL",99,"784",784,"97",97,-12,8,"MSL","Africa","SierraLeone",-13.23,8.48,145.5451568826,88,"Mende","Af5","xd230",0,0,3
+"Mursi","Mursi","Mursi",2,,"NA","1201",1201,35,6,"Mursi","Africa","Ethiopia",36.2,5.9,133.327884773352,2,"Suri","Aj20","xd396",0,0,2
+"Naxi","Naxi","Naxi",8,"485",485,"2324",2324,100,28,"Naxi","EastAsia","China",100,26,221.607174783292,8,,,,"NA","NA","NA"
+"Ogiek","Ogiek","Ogiek",2,,"NA","1266",1266,36,0,"Ogiek","Africa","Kenya",35.9,-0.4,45.6090583608715,2,,,,"NA","NA","NA"
+"Onge","Onge","Onge",2,,"NA","3606",3606,93,13,"Onge","SouthAsia","India",92.65,11.66666667,152.333129192485,2,,,,"NA","NA","NA"
+"Orcadian","Scots","Orcadian",15,"2505",2505,"1868",1868,-3,59,"Orcadian","WestEurasia","OrkneyIslands",-3,59,0,15,,,,"NA","NA","NA"
+"Oroqen","Oroqen","Oroqen",9,"2292",2292,"1980",1980,125,51,"Oroqen","EastAsia","China",126.5,50.4,125.237863118237,9,"Evenk","ec16","xd624",0,0,1
+"Palestinian","S. Lev. Arabic","Palestinian",46,"132;231",132,"1568",1568,35,32,"Palestinian","WestEurasia","Israel(Central)",35,32,0,46,"Jordanians","Cj6","xd592",0,0,2
+"PapuanHighlands","Waghi","PapuanHighlands",9,"610",610,"3714",3714,144,-6,"PapuanHighlandsHGDP","Oceania","Papuan Highlands in New Guinea (HGDP)",143,-4,247.409565511605,9,,,,"NA","NA","NA"
+"PapuanSepik","Abulas","PapuanSepik",8,"1159",1159,"4258",4258,142,-4,"PapuanSepikHGDP","Oceania","Papuan Sepik in New Guinea (HGDP)",143,-4,111.050123972651,8,,,,"NA","NA","NA"
+"Pathan","Pashto","Pathan",24,"173;521",173,"1739;1740",1739,68,31,"Pathan","SouthAsia","Pakistan",70.5,33.5,363.780280427691,24,"Yusufzai","Ea2","xd601",0,0,2
+"Peruvian","Cusco Spanish","PEL",122,"2024",2024,"1831",1831,-77,-12,"PEL","America","Peru",-77.03,-12.04,5.50017770551025,86,,,,"NA","NA","NA"
+"Pima","O‚Äö√Ñ√¥odham","Pima",13,"96;509",96,"4970",4970,-112,33,"Pima","America","Mexico",-108,29,585.21033708152,13,"Pima","Ni6","xd1291",0,0,2
+"Punjabi","Punjabi","PJL",146,"175;1780;2479",2479,"1692;1695",1695,74,31,"Punjabi","SouthAsia","Pakistan",74.3,31.5,62.3685791877247,104,"Punjabi","Ea13","xd600",0,0,3
+"Quechua","Quechua","Quechua",2,,"NA","5148",5148,-72,-14,"Quechua","America","Peru",-72,-13.5,55.3185199578562,1,"Quechan","Nh22","xd1273",0,0,1
+"Relli","Reli","Relli",2,,"NA","1720",1720,83,18,"Relli","SouthAsia","India",83.3,17.7,45.9739579466977,2,,,,"NA","NA","NA"
+"Rendille","Rendille","Rendille",2,,"NA","1536",1536,37,2,"Rendille","Africa","Kenya",37.7,2.6,102.294033245372,2,,,,"NA","NA","NA"
+"Russian","Russian","Russian",25,"166;530;2261",116,"1875",1875,34,55,"Russian","WestEurasia","Russia",40,61,755.89240060434,25,"Russians","Ch11","xd548",0,0,2
+"Saami","Saami","Saami",2,,"NA","1911;1912;1913;1914",1911,21,68,"Saami","WestEurasia","Finland",27,69.9,320.393603210025,2,"Sami","Cg4","xd544",0,0,1
+"Saharawi","Saharawi","Saharawi",2,,"NA","1567",1567,-11,20,"Saharawi","Africa","Western Sahara (Morocco)",-8.9,27.3,836.353553402774,2,,,,"NA","NA","NA"
+"San","Nama","San",6,"115;382",115,"11",11,19,-29,"SanHGDP","Africa","Namibia",20,-21,891.90839984421,6,"!Kung","Aa1","xd1",0,0,1
+"Sandawe","Sandawe","Sandawe",2,,"NA","2",2,35,-5,"Sandawe","Africa","Tanzania",35.5,-5.5,78.290505462145,2,"Sandawe","Aa6","xd6",0,0,1
+"Sardinian","Sardinian","Sardinian",28,"2546",2546,"1803",1803,9,40,"Sardinian","WestEurasia","Italy",9,40,0,28,,,,"NA","NA","NA"
+"Sengwer","Markweeta","Sengwer",2,,"NA","1266",1266,36,1,"Sengwer","Africa","Kenya",35.3,1.1,78.6913897114623,2,,,,"NA","NA","NA"
+"Sherpa","Sherpa","Sherpa",2,,"NA","2127",2127,86,28,"Sherpa","SouthAsia","Nepal",86.7,27.8,72.3928343960223,2,"Sherpa","Ee6","xd658",0,0,2
+"Sindhi","Sindhi","Sindhi",24,"1148;1786",1786,"1690;1691",1690,68,25,"Sindhi","SouthAsia","Pakistan",69,25.5,114.966250696974,24,"Sindhi","Ea1","xd596",0,0,3
+"Tamil","Tamil","STU",114,"1058;1788;2611",2611,"2050",2050,80,9,"STU","SouthAsia","Sri Lanka (sampled in UK)",-1.890401,52.486243,8670.80069723632,101,"Tamil","Eg2","xd678",0,0,2
+"Surui","Paiter","Surui",8,"2103",2103,"5271",5271,-61,-11,"Surui","America","Brazil",-62,-11,109.287506817374,8,,,,"NA","NA","NA"
+"Thai","Thai","Thai",2,,"NA","2579",2579,101,15,"Thai","EastAsia","Thailand",100.5,13.8,143.303123551315,2,"Thai","Ej9","xd731",0,0,2
+"Tibetan","Tibetan","Tibetan",2,,"NA","2125;2126",2125,86,30,"Tibetan","SouthAsia","Tibet",84.3,28.9,205.095119470391,2,"Tibetans","Ee4","xd656",0,0,2
+"Tlingit","Tlingit","Tlingit",2,,"NA","4640",4640,-136,59,"Tlingit","CentralAsiaSiberia","Russia",158.65,53,3963.73115091751,2,"Tlingit","Nb22","xd1082",1,1,1
+"Tuscan","Italian","TSI",127,"1145;2195;2427",2427,"1809",1809,11,44,"TSI","WestEurasia","Italy",12,42.1,226.251657555251,127,"Neapolitans","Ce5","xd532",0,0,3
+"Tu","Tu","Tu",10,"462",462,"1968",1968,100,38,"Tu","EastAsia","China",101,36,239.133862444378,10,"Tu","Eb2","xd610",0,0,3
+"Tubalar","Northern Altai","Tubalar",2,,"NA","1960",1960,88,51,"Tubalar","CentralAsiaSiberia","Russia",87,51.13333333,71.6486719273863,2,,,,"NA","NA","NA"
+"Turkish","Turkish","Turkish",2,,"NA","1935",1935,33,39,"Turkish","WestEurasia","Turkey",35.5,38.7,219.555597864772,2,"Turks","Ci5","xd581",0,0,2
+"Ulchi","Ulch","Ulchi",2,,"NA","1991",1991,140,52,"Ulchi","CentralAsiaSiberia","Russia",140.42,52.43,55.7973005689653,2,"Ulch","ec18","xd626",0,0,1
+"Uygur","Uyghur","Uygur",10,"2612",2612,"1941",1941,81,42,"Uygur","EastAsia","China",81,44,222.185490143927,10,,,,"NA","NA","NA"
+"Xibo","Xibe","Xibo",9,"463",463,"1986",1986,122,42,"Xibo","EastAsia","China",81.5,43.5,3287.06610312667,9,"Manchu","Ed3","xd646",0,0,1
+"Yakut","Sakha","Yakut",25,"190;534;2444",190,"1956",1956,126,61,"Yakut","CentralAsiaSiberia","Russia",129.5,63,288.558247194284,25,"Yakut","Ec2","xd628",0,0,1
+"Yi","Nuosu","Yi",10,"2483",2483,"2346",2346,102,28,"Yi","EastAsia","China",103,28,98.361592803917,10,"Lolo","Ed2","xd645",0,0,1
+"Yoruba","Yoruba","YRI",200,"636;847;848",847,"447",447,4,7,"Yoruba","Africa","Nigeria",3.9,7.4,45.5946347965121,143,"Oyo Yoruba","Af6","xd240",0,0,3
+"Zapotec","Zapotec","Zapotec",2,,"NA","5052",5052,-95,16,"Zapotec","America","Mexico",-97.2,16.5,241.599739614453,2,"Zapotec","Nj10","xd1296",0,0,3
